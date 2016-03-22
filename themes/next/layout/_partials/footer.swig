@@ -8,15 +8,7 @@
   <span class="author" itemprop="copyrightHolder">{{ config.author }}</span>
 </div>
 
-<div class="powered-by">
-  {{ __('footer.powered', '<a class="theme-link" href="http://hexo.io">Hexo</a>') }}
-</div>
-
 <div class="theme-info">
-  {{ __('footer.theme') }} -
-  <a class="theme-link" href="https://github.com/iissnan/hexo-theme-next">
-    NexT.{{ theme.scheme }}
-  </a>
+ <script type="text/javascript" src="//ra.revolvermaps.com/0/0/4.js?i=059ha686vbz&amp;m=0&amp;h=50&amp;c=ff0000&amp;r=15" async="async"></script>
 </div>
-
 {% block footer %}{% endblock %}

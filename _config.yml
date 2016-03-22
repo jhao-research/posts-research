@@ -16,6 +16,7 @@ url: http://yoursite.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+avatar: /images/profile.png
 
 # Directory
 source_dir: source
