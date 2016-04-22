@@ -23,6 +23,7 @@ tags:
 - Event data与model之间的关联：play-in, play out以及replay。
  * Play-out: start from model, generate behaviors.
  * Play-in: start from event data, automatically infer corresponding process model (learning a model from examples).
+ * Replay: replay reality on top of the model. To find deviation from reality and model, check executive errors and provide diagnostics. 与此同时，可以统计 frequencies of actions, frequencies of paths and delays between actions.
 
 ## 第二讲
 在第二讲中，将着重于流程模型 (Process Model) 以及流程探索 (Process Discovery) 问题。
